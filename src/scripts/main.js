@@ -1,1 +1,0 @@
-//javascript geral para a pokedex
